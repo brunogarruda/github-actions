@@ -1,3 +1,3 @@
 # github-actions
 
-Treinamento usando git-hub actions
+Treinamento usando github actions
