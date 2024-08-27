@@ -28,6 +28,5 @@ jobs:
         run: |
           echo I Will fail,
           echo 1.
-    steps:
       - name: Say goodbye
         run: echo goodbye
